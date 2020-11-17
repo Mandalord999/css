@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Sans-serif, Helvetica;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 30px;
+	font-style: italic;
+	color: #7FB3D5;
+	text-align: left;
+	text-decoration: underline;
+	text-transform: lowercase;
+}
+
+p {
+	text-align: justify;
+	text-transform: capitalize;
+	letter-spacing: 3px;
+}

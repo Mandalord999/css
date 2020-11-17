@@ -1,0 +1,20 @@
+a{
+	font-size: 20px;
+	text-decoration: none;	
+}
+
+a:hover /* ":hover" Es para modificar el estilo cuando el usuario pasa el mouse por encima*/
+{
+	background:#FF399C;
+	color: #fff;
+}
+
+a:link /* ":link" Es para cambiar el estilo a los link que no se han visitado*/
+{
+text-decoration: none;
+}
+
+a:visited /* ":visited" Es para cambiar el estilo a los link que se han visitado*/
+{
+	color:#229954;
+}

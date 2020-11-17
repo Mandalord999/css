@@ -1,3 +1,12 @@
+/* 
+Estructura de CSS:
+
+"body" = Selector, elemento que queremos aplicar los efectos
+"color"= Propiedad, efecto que queremos aplicar
+"blue" = Es el valor de la propiedad
+
+*/  
+
 body {
 	color: blue;
 }

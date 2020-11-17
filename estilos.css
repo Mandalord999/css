@@ -24,3 +24,16 @@ div article p {font-size:30px; color:black;}
 div p a {color: red;}
 
 body a {color: green;}
+
+/*Selector de clases*/
+
+.grande{font-size: 28px;}
+
+/*Selector de id
+
+Generalmente NO se utiliza el id en el codigo css
+
+*/
+
+#pequeño{font-size: 12px;}
+

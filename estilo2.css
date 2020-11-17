@@ -1,0 +1,18 @@
+body{
+
+	/*background: #A9DFBF;*/
+	/*background: url(imagenes/desierto.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;*/
+	/*background-position:center center;*/
+}
+
+.fondo{
+
+	width: 600px;
+	height: 600px;
+	background: url(imagenes/desierto.jpg) #000;
+	background-repeat: no-repeat;
+	background-size: 50%;
+}

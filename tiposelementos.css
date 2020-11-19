@@ -1,0 +1,23 @@
+body {
+
+	background:#808B96;
+	font-family: Arial;
+	color: #fff;
+}
+
+h1 , p , div {
+
+	background: #AAB7B8;
+	padding: 5px;
+	width: 500px
+	display: inline-block;
+}
+
+a {
+
+	color: #fff;
+	background: #000;
+	display: inline-block;
+
+
+}

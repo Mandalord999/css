@@ -1,0 +1,75 @@
+body {
+
+	background: #D5D8DC;
+	font-family: Arial;
+}
+
+div {
+
+	margin: 20px 0;
+
+}
+
+.btn {
+
+	background:#A569BD;
+	color: #fff;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-block;
+	margin: 0 10px;
+
+}
+
+.btn:hover{
+
+	opacity: .8;
+}
+
+.small {
+
+	font-size: 14px;
+	padding: 10px 15px;
+
+}
+
+.medium {
+
+	font-size: 16px;
+	padding: 15px 20px;
+}
+
+.big {
+
+	font-size: 18px;
+	padding: 25px 30px;
+}
+
+.extra-big {
+
+	font-size: 20px;
+	padding: 30px 35px;
+}
+
+.azul {
+
+	background:#2471A3;
+}
+
+.rojo{
+	background:#E74C3C;
+}
+
+.amarillo {
+	background:#F1C40F;
+}
+
+.verde {
+	background:#229954;
+}
+
+.radio {
+
+	border-radius: 80px;
+}

@@ -9,9 +9,15 @@ div, a{
 }
 
 a {
-	display: block;
+	background: #CD6155 ;
+	color: #fff ;
+	padding: 20px;
+	display: inline-block;
+	/*display: block;*/
 	/*display: none;*/
 	/*visibility: hidden;*/
+
+	/*display [inline | none | inline-block | flex]*/
 }
 
 .caja {
@@ -30,7 +36,41 @@ a {
 .contenedor {
 	width: 600px;
 	background: #CB4335;
-	margin: 20px;
+	margin: 20px 0px;
+	overflow:hidden;
 }
 
-/*display [inline | none | inline-block | flex]*/
+.izquierdo {
+
+	float: left;
+}
+
+.derecho {
+
+	float: right;
+}
+
+.contenedor2 .caja {
+
+	width: 150px;
+	height: 150px;
+	position: relative;
+}
+
+.azul {
+	background: #2874A6;
+	z-index: 10;
+
+}
+
+.gris {
+
+	background: #566573;
+	left: 50px;
+	bottom: 80px;
+	z-index: 9;
+
+	/* z-index: permite sobreponer el elemento que tiene el valor mayor sobre el menor*/
+}
+
+

@@ -1,0 +1,14 @@
+p::first-letter{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.caja {
+	background:#229954;
+	height: 200px;
+	width: 200px;
+}
+
+.caja::before{
+	
+}

@@ -1,0 +1,36 @@
+body {
+	font-family: Arial, Sans-serif;
+	background: #D5DBDB;
+}
+
+div, a{
+	background:#EB984E;
+
+}
+
+a {
+	display: block;
+	/*display: none;*/
+	/*visibility: hidden;*/
+}
+
+.caja {
+	color: #fff ;
+	background: #9A7D0A;
+	margin: 20px 0px;
+	width: 200px;
+	height: 200px;
+	overflow:auto;
+    
+    /*con overflow:hidden eliminamos lo sobrante que esta fuera de la caja;
+	con overflow:auto añadimos un scroll para leer el contenido completo que sobresale de la caja;*/
+
+}
+
+.contenedor {
+	width: 600px;
+	background: #CB4335;
+	margin: 20px;
+}
+
+/*display [inline | none | inline-block | flex]*/

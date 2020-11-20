@@ -1,0 +1,32 @@
+body { font-family: Arial; }
+
+a{ background:#76448A; padding: 20px 30px; 
+	display: inline-block; 
+	font-size: 20px; color: #FDFEFE; 
+	text-decoration: none
+}
+
+a:hover{
+	/* a:hover los elmentos se pueden cambiar al pasar el mouse por encima*/
+	
+	background:#9B59B6;
+	/*font-size: 25px;*/
+	padding: 10px 30px;
+
+}
+
+a:active {
+	/* a:hover los elmentos se pueden cambiar al hace click en el enlace*/
+	background:#78281F;
+}
+
+div {
+	width: 500px;
+}
+
+div p:hover{
+
+	background:#9B59B6;
+	color: #fff;
+
+}

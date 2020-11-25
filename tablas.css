@@ -1,0 +1,27 @@
+body {font-family: Arial;}
+
+table,td,th {
+	border: 1px solid #FF6060;
+
+}
+
+table { border-collapse: collapse;
+		width: 500px;
+		text-align: center;
+	}
+
+td, th {
+
+	padding: 10px 20px;
+
+}
+
+th {
+	background:#FF6060;
+	color: #fff;
+}
+
+tr:hover{
+	background:#FF6060;
+	color: #fff;
+}

@@ -1,0 +1,49 @@
+/*ul , ol {
+
+	list-style: none;
+	padding: 0;
+
+}*/
+
+/*list-style: decimal | decimal.leading-zero | lower-roman | upper-roman | lower-latin | upper-latin*/
+
+body {
+	font-family: Arial;
+}
+
+ul {
+	list-style-image: url('imagenes/check.png');
+}
+
+ol {
+	list-style: 
+}
+
+/*Menu*/
+
+.menu {
+	/**/
+	width: 200px;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+
+.menu li  {
+	border-bottom: 1px solid #212F3D;
+}
+
+.menu li a {
+	 background: #F7DC6F;
+	text-decoration: none;
+	padding: 15px;
+	color: #17202A;
+	display: block;
+
+}
+
+.menu li a:hover{
+	background:#B5BE00;
+}
